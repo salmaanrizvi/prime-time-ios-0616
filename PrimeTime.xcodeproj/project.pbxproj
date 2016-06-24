@@ -3,11 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4D55491D1BC8520E001E3D77 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D55491C1BC8520E001E3D77 /* Launch Screen.storyboard */; settings = {ASSET_TAGS = (); }; };
+		4D55491D1BC8520E001E3D77 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D55491C1BC8520E001E3D77 /* Launch Screen.storyboard */; };
 		726811FB1923ECC5009F8F37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 726811FA1923ECC5009F8F37 /* Foundation.framework */; };
 		726811FD1923ECC5009F8F37 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 726811FC1923ECC5009F8F37 /* CoreGraphics.framework */; };
 		726811FF1923ECC5009F8F37 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 726811FE1923ECC5009F8F37 /* UIKit.framework */; };
@@ -225,7 +225,7 @@
 				};
 			};
 			buildConfigurationList = 726811F21923ECC5009F8F37 /* Build configuration list for PBXProject "PrimeTime" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -424,7 +424,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PrimeTime/PrimeTime-Prefix.pch";
 				INFOPLIST_FILE = "PrimeTime/PrimeTime-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.FIS.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -438,7 +438,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PrimeTime/PrimeTime-Prefix.pch";
 				INFOPLIST_FILE = "PrimeTime/PrimeTime-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.FIS.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
