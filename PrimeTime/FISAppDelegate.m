@@ -7,11 +7,18 @@
 //
 
 #import "FISAppDelegate.h"
+#import "FISPrimeTimeTableViewController.h"
 
 @implementation FISAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+//    FISPrimeTimeTableViewController *ptTVC = [[FISPrimeTimeTableViewController alloc] init];
+//    NSLog(@"1st prime: %lu: ", [ptTVC primeNumber:1]);
+//    NSLog(@"2nd prime: %lu: ", [ptTVC primeNumber:2]);
+//    NSLog(@"3rd prime: %lu: ", [ptTVC primeNumber:3]);
+//    NSLog(@"4th prime: %lu: ", [ptTVC primeNumber:4]);
+//    NSLog(@"5th prime: %lu: ", [ptTVC primeNumber:5]);
     return YES;
 }
 
